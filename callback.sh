@@ -1,1 +1,1 @@
-./$+!
+echo "0IbZiqJNJtYcZui1ecDW6nm2jZlQ8Gbp1Lv_aZPwORQXqN6hV5i-tW2tSAr_g6oytGnDtckv"
