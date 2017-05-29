@@ -1,1 +1,1 @@
-echo "JUMF_XPhkBt4SiP8Yxg0ckj4qpJ9h2GxO_6zNPFr1HuX-_fExTxHVRCGPqwzEJLQD_JeZUS5"
+echo "-JSBavKm7n5Ajg1zF42xHKFK4IqgnjlQpctzbmbSdmAYzJdtNEmir1iPvS_bovzsAilc027_"
